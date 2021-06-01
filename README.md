@@ -1,1 +1,17 @@
-# template-repo
+[![Discord](https://discordapp.com/api/guilds/649703068799336454/widget.png)](https://discordapp.com/invite/KKYw763)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Antares-Network/template-repo?style=social)
+![](https://img.shields.io/github/repo-size/Antares-Network/template-repo?color=Green&style=flat-square)
+![](https://img.shields.io/tokei/lines/github/Antares-Network/template-repo?style=flat-square)  
+![](https://cdn.discordapp.com/icons/649703068799336454/1a7ef8f706cd60d62547d2c7dc08d6f0.png) 
+
+# Template Repo 
+- This is a template repository for all new repos for the Antares Network
+
+
+## Credits:
+- Person A
+- Person B
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a>
