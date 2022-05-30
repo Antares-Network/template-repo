@@ -1,4 +1,4 @@
-[![Discord](https://discordapp.com/api/guilds/649703068799336454/widget.png)](https://discordapp.com/invite/KKYw763)
+[![Discord](https://discordapp.com/api/guilds/649703068799336454/widget.png)](https://playantares.com/discord)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Antares-Network/template-repo?style=social)
 ![](https://img.shields.io/github/repo-size/Antares-Network/template-repo?color=Green&style=flat-square)
 ![](https://img.shields.io/tokei/lines/github/Antares-Network/template-repo?style=flat-square)  
